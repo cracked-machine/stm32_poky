@@ -1,0 +1,10 @@
+{
+    "image": "ghcr.io/cracked-machine/yocto_docker:ubuntu2204",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "eugenwiens.bitbake"
+            ]
+        }
+    }
+}
